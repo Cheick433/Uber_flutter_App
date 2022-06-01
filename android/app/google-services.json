@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357922567956",
+    "firebase_url": "https://uber-flutter-project-default-rtdb.firebaseio.com",
+    "project_id": "uber-flutter-project",
+    "storage_bucket": "uber-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357922567956:android:d39090fa7c27a8b7637401",
+        "android_client_info": {
+          "package_name": "com.chouaibalada.myfluterap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357922567956-t2vj598bquc2rvairsmuo8lb3aqkmtil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkco0ENJPJOmG8b54b90EMUIZN4PfmTGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357922567956-t2vj598bquc2rvairsmuo8lb3aqkmtil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
